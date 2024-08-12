@@ -1,5 +1,8 @@
 //touch films.txt
 //echo "forrest gump" > films.txt
+//echo "star wars IV" >> films.txt
+//echo "the godfather" >> films.txt
 
 forrest gump
 star wars IV
+the godfather

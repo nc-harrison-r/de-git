@@ -1,0 +1,5 @@
+//echo "popcorn" > snacks.txt
+//echo "pizza" >> snacks.txt
+
+popcorn
+pizza
